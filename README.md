@@ -2,13 +2,7 @@
 
 A new Flutter project alert show dialog with dependency quickalert.
 
-<a href="">
-  <h1 align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/example.MP4">
-    </picture>
-  </h1>
-</a>
+<img src="assets/example.MP4" alt="QuickAlert" height="100%">
 
 ## Getting Started
 
@@ -36,23 +30,27 @@ samples, guidance on mobile development, and a full API reference.
 
 An instantly ready, full-featured alerts for development on any platform with flutter. Enabling you to complete projects and deploy quickly. With QuickAlert, you can display animated alert dialogs such as success, error, warning, confirm, loading or even a custom dialog.
 
-<a href="https://pub.dev/packages/quickalert">
-  <h1 align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belovance/QuickAlert/master/screenshots/banner.png?raw=true">
-    </picture>
-  </h1>
-</a>
+<img src="https://raw.githubusercontent.com/belovance/QuickAlert/master/screenshots/banner.png?raw=true" alt="QuickAlert Banner" width="100%">
 
+Start by adding the library as a dependency to your project.
+
+```yaml
 dependencies:
-quickalert: <latest version>
+  quickalert: <latest version>
+```
 
+Import it in your dart code, you can use
+
+```dart
 import 'package:quickalert/quickalert.dart';
+```
 
-Examples
+ExamplesTo display alert use <code>QuickAlert.show()</code> and define the <code>type</code> of alert.
 
-QuickAlert.show(
-context: context,
-type: QuickAlertType.success,
-text: 'Transaction Completed Successfully!',
-);
+```dart
+  QuickAlert.show(
+   context: context,
+   type: QuickAlertType.success,
+   text: 'Transaction Completed Successfully!',
+  );
+```
