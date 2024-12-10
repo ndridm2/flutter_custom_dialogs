@@ -2,8 +2,6 @@
 
 A new Flutter project alert show dialog with dependency quickalert.
 
-https://github.com/ndridm2/flutter_custom_dialogs/assets/example.MP4
-
 ## Getting Started
 
 <a href="https://flutter.dev/">
