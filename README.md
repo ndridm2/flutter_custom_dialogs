@@ -2,7 +2,9 @@
 
 A new Flutter project alert show dialog with dependency quickalert.
 
-<img src="assets/example.MP4" alt="QuickAlert" height="100%">
+<videos src="assets/example.MP4" controls width="100%">
+    Your browser does not support the video tag.
+</video>
 
 ## Getting Started
 
