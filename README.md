@@ -2,7 +2,7 @@
 
 A new Flutter project alert show dialog with dependency quickalert.
 
-<videos src="assets/example.MP4" controls width="100%">
+<videos src="https://github.com/ndridm2/flutter_custom_dialogs/blob/main/assets/example.MP4" controls width="100%">
     Your browser does not support the video tag.
 </video>
 
