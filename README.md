@@ -2,7 +2,7 @@
 
 A new Flutter project alert show dialog with dependency quickalert.
 
-<img src="assets/example.MP4" alt="QuickAlert" height="100%">
+<img src="https://github.com/ndridm2/flutter_custom_dialogs/tree/main/assets/example.MP4" alt="QuickAlert" height="100%">
 
 ## Getting Started
 
